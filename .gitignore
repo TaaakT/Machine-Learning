@@ -1,0 +1,6 @@
+*.zip
+*.pt
+*.h5
+*.ckpt
+.ipynb_checkpoints/
+__pycache__/
